@@ -1,4 +1,4 @@
-#Description: This program counts the top 10 states in FRANCE causing the most number of injuries.
+#Description: This program counts the top 5 states in FRANCE causing the most number of injuries.
 #The calculation is based upon fatal and severe injuries and plots the corresponding states with injury frequency.
 
 
